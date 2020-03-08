@@ -1,6 +1,9 @@
 # qreader_app
 
-A new Flutter application.
+A QR reader Flutter application, works with http web pages and maps.
+
+![alt text](https://i.imgur.com/MOGyj7H.jpg)
+![alt text](https://i.imgur.com/lPGfCXk.jpg)
 
 ## Getting Started
 
